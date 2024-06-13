@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Seja bem vindo ao meu perfil**
+**Seja bem vindo ao meu perfil**💙
 
 **buiarskiana/Buiarskiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+!.[](https://media1.tenor.com/m/ew45IhWGeIEAAAAC/chor%C3%A3o-chorao.gif)
